@@ -1,0 +1,13 @@
+/* Add this in your CSS file */
+.placeholder-dark::placeholder {
+    color: white;
+  }
+  
+  .placeholder-light::placeholder {
+    color: black;
+  }
+  /* Default styles for larger screens */
+/* body {
+  font-size: 18px;
+  padding: 20px;
+} */
